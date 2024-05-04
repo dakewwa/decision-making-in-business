@@ -1,6 +1,6 @@
 # decision-making-in-business
 
-## Description: 
+## Description
 Project:Decision making in business
 In this project, we will analyze the data of a large online store. Our goal is to prepare a list of hypotheses, run an A/B test and analyze the results to increase revenue.
 
